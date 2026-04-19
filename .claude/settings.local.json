@@ -6,7 +6,8 @@
       "Bash(mv collect_comments.py data_collection/scripts/)",
       "Bash(mv validate_dataset.py data_collection/scripts/)",
       "Bash(mv phase2_data_collection_cameroun.ipynb data_collection/notebooks/)",
-      "Bash(python3)"
+      "Bash(python3)",
+      "Bash(python -c ':*)"
     ]
   }
 }
